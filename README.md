@@ -2,7 +2,7 @@
 
 Сайт-резюме: Trainee/Junior Python Developer · Data Analyst.
 
-🔗 **Демо:** https://oleksz.github.io/resume/
+🔗 **Демо:** https://olekssz.github.io/resume/
 
 ## Про проєкт
 
